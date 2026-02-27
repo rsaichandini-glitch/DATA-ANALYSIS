@@ -4,7 +4,7 @@
 
 This project analyzes factory device health using Tableau.
 
-![Tableau Dashboard](tableau-dashboard.png)
+![Tableau Dashboard](tableau-dashboard.png.png)
 
 ## 🔍 Key Insights
 - Shenzhen factory has the highest unhealthy devices.
